@@ -1,6 +1,6 @@
 # lista_de_tareas
 
-A Flutter project developed as part of a selection process for Inprodi Web Studio
+Todo list app that saves images, erases and adds new tasks
 
 ## Getting Started
 
